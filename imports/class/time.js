@@ -1,6 +1,6 @@
 class Time {
     
-    function CronTime(time_init, time_end, func){
+    function CronTime(Scene, time_init, time_end, func){
 
     }
 
