@@ -1,0 +1,7 @@
+class Level {
+
+	function DefineLevel(){
+
+	}
+
+}
