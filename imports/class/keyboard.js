@@ -1,6 +1,6 @@
 class Keyboard {
 
-	construct(key, action){
+	constructor(key, action){
 
 	}
   

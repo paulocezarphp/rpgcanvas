@@ -1,6 +1,6 @@
 class Battle {
 
-	construct(type, name, time_battle, condition){
+	constructor(type, name, time_battle, condition){
 
 	}
   

@@ -1,6 +1,6 @@
 class Action {
 
-	construct(func){
+	constructor(func){
 
 	}
 

@@ -1,6 +1,12 @@
 class File {
     
-    construct(){
+    constructor(path){
+
+    	if(path != null){
+       
+    	}else{
+    		
+    	}
     	
     } 
    

@@ -1,6 +1,6 @@
 class Sound {
     
-    construct(sound_path, scene, state_init){
+    constructor(sound_path, scene, state_init){
 
     }
 

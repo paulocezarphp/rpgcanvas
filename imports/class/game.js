@@ -1,11 +1,17 @@
 class Game {
 
-    function Begin(){
 
-    }
+	constructor(){
 
-    function End(){
+	}
 
-    }
-  
+	Begin(){
+	   
+	}
+
+	End(){
+
+	}
+	
+
 }

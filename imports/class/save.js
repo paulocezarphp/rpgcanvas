@@ -1,6 +1,6 @@
 class Save {
 
-	construct(slot, name){
+	constructor(slot, name){
 
 	}
   
