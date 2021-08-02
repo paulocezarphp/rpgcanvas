@@ -1,6 +1,6 @@
 class Level {
 
-	function DefineLevel(){
+	function DefineLevel(..args){
 
 	}
 
