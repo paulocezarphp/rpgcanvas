@@ -4,11 +4,35 @@ class Action {
 
 	}
 
-	function UserItem(){
+	function user_item(){
 
 	}
 
-	function ChangeScene(){
+	function change_scene(){
+
+	}
+
+	function change_Hp(){
+
+	}
+
+	function change_mp(){
+
+	}
+
+	function add_ally(){
+
+	}
+
+	function remove_ally(){
+
+	}
+
+	function add_condition(){
+
+	}
+
+	function remove_condition(){
 
 	}
 
