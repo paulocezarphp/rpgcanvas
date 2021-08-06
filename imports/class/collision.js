@@ -1,14 +1,32 @@
 class Collision {
 
-    function Inside(){
+    function Inside(object, action){
+
+        var object_pos_x;
+        var object_pos_y;
+        var object_pos_x;
+        var object_width;
+        var object_height;
 
     }
 
-    function Outside(){
+    function Outside(object, action){
+
+        var object_pos_x;
+        var object_pos_y;
+        var object_pos_x;
+        var object_width;
+        var object_height;
     	
     }
 
-    function Rang(){
+    function Rang(object, action){
+
+        var object_pos_x;
+        var object_pos_y;
+        var object_pos_x;
+        var object_width;
+        var object_height;
     	
     }
 
