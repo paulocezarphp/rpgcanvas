@@ -1,6 +1,14 @@
 class Animation {
 
-    function Anima(speed, ...args){
+    function animation(speed, ...args){
+
+    }
+
+    function play(){
+
+    }
+
+    function pause(){
 
     }
   
