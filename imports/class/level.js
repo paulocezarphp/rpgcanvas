@@ -1,6 +1,6 @@
 class Level {
 
-	function DefineLevel(..args){
+	function DefineLevel(max_level, next_level_exp_array){
 
 	}
 

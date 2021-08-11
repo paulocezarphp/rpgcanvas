@@ -1,30 +1,31 @@
 class Collision {
 
-    function Inside(object, action){
+    constructor(scene, object){
+
+    }
+
+    function inside(action){
 
         var object_pos_x;
         var object_pos_y;
-        var object_pos_x;
         var object_width;
         var object_height;
 
     }
 
-    function Outside(object, action){
+    function outside(action){
 
         var object_pos_x;
         var object_pos_y;
-        var object_pos_x;
         var object_width;
         var object_height;
     	
     }
 
-    function Rang(object, action){
+    function rang(action){
 
         var object_pos_x;
         var object_pos_y;
-        var object_pos_x;
         var object_width;
         var object_height;
     	

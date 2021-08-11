@@ -4,16 +4,28 @@ class Sound {
 
     }
 
-	function Play(){
+	play(){
 
 	}
 
-	function Pause(){
+	pause(){
 
 	}
 
-	function Stop(){
+	stop(){
 
+	}
+
+	set_sound_path(){
+
+	}
+
+	set_scene(){
+		
+	}
+
+	set_state_init(){
+		
 	}
   
 }
