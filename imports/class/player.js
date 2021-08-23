@@ -23,6 +23,8 @@ class Player {
 	function set_class(){
 
 	}
+
+	
     
 
 }

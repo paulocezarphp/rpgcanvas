@@ -4,15 +4,15 @@ class Itens {
 
     }
 
-    function set_name(){
+    function set_name(name){
 
     }
 
-    function set_purchase_price(){
+    function set_purchase_price(price){
         
     }
 
-    function set_sale_price(){
+    function set_sale_price(price){
         
     }
 
