@@ -4,23 +4,23 @@ class Player {
 
 	}
 
-	function set_scene_init(){
+	function set_scene_init(new_scene){
 
 	}
 
-	function set_level_init(){
+	function set_level_init(level){
 
 	}
 
-	function set_character(){
+	function set_character(character){
 		
 	}
 
-	function set_name(){
+	function set_name(name){
 
 	}
 
-	function set_class(){
+	function set_class(class_name){
 
 	}
 
