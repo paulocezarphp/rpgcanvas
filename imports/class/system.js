@@ -1,18 +1,18 @@
 class System {
 
-	function PlayGame(scene){
+	play_game(scene){
 
     }
 
-    function PauseGame(scene){
+    pause_game(scene){
 
     }
 
-    function RestartGame(scene){
+    restart_game(scene){
 
     }
 
-    function SpeedGame(speed){
+    speed_game(speed){
 
     }
   

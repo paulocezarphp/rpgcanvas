@@ -1,7 +1,11 @@
 class Text {
 
-    constructor(scene, object){
+    constructor(scene, object, text){
 
+    }
+
+    set_text(){
+        
     }
 
     set_position(){
